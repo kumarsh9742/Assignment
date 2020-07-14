@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.outer{
+   border: 1px solid black;
+   width: 98%;
+   height: 98%;
+}
+.containercss{
+    width: 80%;
+    background-color: seagreen;
+}
